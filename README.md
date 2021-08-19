@@ -2,7 +2,7 @@
 ```javascript
 component   -->   Action   -->   reducer   -->   Store 
 
-    ^     dispatch         handle          update   | 
+    ^                    dispatch          update   | 
     |                                               |
     |_______________________________________________|
                          subscribe   
